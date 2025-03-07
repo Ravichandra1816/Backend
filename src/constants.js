@@ -1,1 +1,1 @@
-export const BD_NAME = "firstData";
+export const DB_NAME = "firstData";
